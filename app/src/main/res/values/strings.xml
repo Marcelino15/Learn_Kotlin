@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ADS 2</string>
+    <string name="illustrasi">Illustrasi</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">Please sign in to continue</string>
+    <string name="creat_account">Creat Account</string>
+    <string name="dummy_illustrasi" />
+</resources>
